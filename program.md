@@ -7,9 +7,10 @@
 6. Machine Learning basics
 7. Python introduction
 9. Unsupervised Learning + k-Means + Hierachical clustering + DBSCAN 
-13. Gaussian Mixture Models + EM 
-15. PCA / ICA / Spectral clustering 
-16. HMM + Manifold learning
+13. PCA / ICA 
+14. Manifold learning + Spectral clustering 
+15. Gaussian Mixture Models + EM 
+16. HMM
 18. Clustering evaluation
 19. scikit-learn clustering
 20. Supervised Learning Intro + Model selection 
