@@ -5,16 +5,15 @@
 4. Probability and Information theory
 5. Calculus
 6. Machine Learning basics
-7. Python introduction
 9. Unsupervised Learning + k-Means + Hierachical clustering + DBSCAN 
 13. PCA / ICA 
 14. Manifold learning + Spectral clustering 
 15. Gaussian Mixture Models + EM 
 16. HMM
 18. Clustering evaluation
-19. scikit-learn clustering
+19. scikit-learn clustering + project
 20. Supervised Learning Intro + Model selection 
-21. Linear regression + GLM
+21. Linear regression + GLM + PLS
 22. Logistic regression + Regularization
 23. SVM + Kernels
 24. GNB + Nearest Neighbor + LDA
@@ -30,6 +29,6 @@
 35. GAN + GNN
 36. Reinforcement Learning
 37. Machine Learning and Neuroscience
-38. TBD
+38. Dataviz
 39. TBD
 40. TBD
