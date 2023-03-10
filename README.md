@@ -9,6 +9,8 @@ Pattern Recognition and Machine Learning - C. Bishop. Springer, 2006. [Free here
 
 The Elements of Statistical Learning - T. Hastie, J. H. Friedmann, R. Tibshirani. Springer. 2009. [Free here](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf)
 
+Mathematics for Machine Learning -  MP. Deisenroth, AA. Faisal, and CS Ong. Published by Cambridge University Press. (2020) [Free here](https://mml-book.github.io/book/mml-book.pdf)
+
 ## Program
 
 The program of the course can be accessed [here](program.md)
