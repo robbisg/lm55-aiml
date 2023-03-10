@@ -5,7 +5,8 @@
 3. Linear Algebra | [slides](https://docs.google.com/presentation/d/1j8AIXVPb5G8GmNLkOs4kYQM4yauIXiLXRbYAvepf1Cc/edit?usp=sharing) | Chap. 2 DL book + MML book
 4. Probability and Information theory
 5. Calculus
-6. Machine Learning basics
+6. Introduction to Python
+7. Machine Learning basics
 9. Unsupervised Learning + k-Means + Hierachical clustering + DBSCAN 
 13. PCA / ICA 
 14. Manifold learning + Spectral clustering 
