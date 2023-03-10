@@ -1,7 +1,8 @@
 # Lectures program
 
-1. Course logistic + Introduction + History of AI
-3. Linear Algebra
+1. Course logistic | [slides](https://docs.google.com/presentation/d/1kTL8-8z6N607njfj-Qf8fa0qkur6mykDr2Tys3JPIuo/edit?usp=sharing) | 
+2. Introduction + History of AI | [slides](https://docs.google.com/presentation/d/1IcoJQ63RDV0LV5uVcy-pnU3F3krzO2MoAJE29SOO1rk/edit?usp=sharing) | Chap. 1 DL book
+3. Linear Algebra | [slides](https://docs.google.com/presentation/d/1j8AIXVPb5G8GmNLkOs4kYQM4yauIXiLXRbYAvepf1Cc/edit?usp=sharing) | Chap. 2 DL book + MML book
 4. Probability and Information theory
 5. Calculus
 6. Machine Learning basics
