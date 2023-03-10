@@ -13,4 +13,8 @@ Mathematics for Machine Learning -  MP. Deisenroth, AA. Faisal, and CS Ong. Publ
 
 ## Program
 
-The program of the course can be accessed [here](program.md)
+The program of the course and the slides can be accessed [here](program.md)
+
+## Material
+Other material about machine learning will be added [here](material.md)
+
