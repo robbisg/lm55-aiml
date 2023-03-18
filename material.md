@@ -13,6 +13,3 @@ python:
 Install
 - https://docs.anaconda.com/anaconda/install/windows/
 - https://learn.microsoft.com/it-it/windows/python/beginners
-
-Papers:
-
