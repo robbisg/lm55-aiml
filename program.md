@@ -13,9 +13,9 @@
 | 9. PCA / ICA | | | 27.03.2023 |
 | 10. Manifold learning + Spectral clustering | | | 29.03.2023 |
 | 11. 💻 Python algebra + numpy + data visualization | | | 31.03.2023 |
-| 12. Gaussian Mixture Models + EM + HMM | | | | 03.04.2023 |
-| 13. Clustering evaluation | | | 05.03.2023 |
-| 14. 💻 scikit-learn clustering + project | | | 07.03.2023 |
+| 12. Gaussian Mixture Models + EM + HMM | | | 03.04.2023 |
+| 13. Clustering evaluation | | | 05.04.2023 |
+| 14. 💻 scikit-learn clustering + project | | | 07.04.2023 |
 | 15. Supervised Learning Intro + Model selection  |
 | 16. Linear regression + GLM + PLS |
 | 17. Logistic regression + Regularization |
