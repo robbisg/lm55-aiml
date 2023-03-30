@@ -11,7 +11,7 @@
 | 7. Machine Learning basics | [slides](https://docs.google.com/presentation/d/1LBIeythXsugOGL1Yf6qS6fJpyQyS3oQxjpBnTTB59zg/edit?usp=sharing) | Chap. 5 DL book | 22.03.2023 |
 | 8. Unsupervised Learning + k-Means + Hierachical clustering + DBSCAN | [slides](https://docs.google.com/presentation/d/1Nqjg2Ihua4x3_mAepCDhX6w1jmZjPek-Jzf7RjXMlCo/edit?usp=sharing) | Chap. 14 ESLII book | 27.03.2023 |
 | 9. PCA / ICA | | | 29.03.2023 |
-| 10. 💻 Python algebra + numpy + data visualization | | | 31.03.2023 |
+| 10. 💻 Python algebra + numpy + data visualization | [notebook](https://colab.research.google.com/drive/1oRuLHfrAf-oa__ZRbUNylyjawmPW2IJY?usp=sharing) | | 31.03.2023 |
 | 11. Manifold learning + Spectral clustering | | | 03.03.2023 |
 | 12. Gaussian Mixture Models + EM + HMM | | | 05.04.2023 |
 | 13. Clustering evaluation | | | 07.04.2023 |
