@@ -22,3 +22,6 @@ Anaconda:
 vscode:
 - https://code.visualstudio.com/
 
+### Datasets
+- Kaggle: https://www.kaggle.com/datasets
+- OpenNeuro: https://openneuro.org/
