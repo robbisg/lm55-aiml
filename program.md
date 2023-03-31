@@ -14,23 +14,23 @@
 | 10. 💻 Python algebra + numpy + data visualization | [notebook](https://colab.research.google.com/drive/1oRuLHfrAf-oa__ZRbUNylyjawmPW2IJY?usp=sharing) | | 31.03.2023 |
 | 11. Manifold learning + Spectral clustering | | | 03.03.2023 |
 | 12. Gaussian Mixture Models + EM + HMM | | | 05.04.2023 |
-| 13. Clustering evaluation | | | 07.04.2023 |
-| 14. 💻 scikit-learn clustering + project | | | 11.04.2023 |
-| 15. Supervised Learning Intro + Model selection  |
-| 16. Linear regression + GLM + PLS |
-| 17. Logistic regression + Regularization |
-| 18. SVM + Kernels |
-| 19. GNB + Nearest Neighbor + LDA |
-| 20. Decision Trees + Random Forest |
-| 21. Ensemble methods + GP |
-| 22. Evaluation of performances + Statistics + Inspection methods + Preprocessing |
-| 23. 💻 scikit-learn classification |
-| 24. 💻 Neural network intro + pytorch |
+| 13. Clustering evaluation | | | 12.04.2023 |
+| 14. 💻 scikit-learn clustering + project | | | 14.04.2023 |
+| 15. Supervised Learning Intro + Model selection  | | | |
+| 16. Linear regression + GLM + PLS | | | |
+| 17. Logistic regression + Regularization | | | |
+| 18. SVM + Kernels | | | |
+| 19. GNB + Nearest Neighbor + LDA | | | |
+| 20. Decision Trees + Random Forest | | | |
+| 21. Ensemble methods + GP | | | |
+| 22. Evaluation of performances + Statistics + Inspection methods + Preprocessing | | | |
+| 23. 💻 scikit-learn classification | | | |
+| 24. 💻 Neural network intro + pytorch | | | |
 | 25. MLP + Backpropagation |
-| 26. CNN |
-| 27. RNN |
-| 28. Autoencoders |
-| 29. GAN + GNN |
-| 30. Reinforcement Learning |
-| 31. Machine Learning and Neuroscience |
-| 32. Dataviz |
+| 26. CNN | | | |
+| 27. RNN | | | |
+| 28. Autoencoders | | | |
+| 29. GAN + GNN | | | |
+| 30. Reinforcement Learning | | | |
+| 31. Machine Learning and Neuroscience | | | |
+| 32. Dataviz | | | |
