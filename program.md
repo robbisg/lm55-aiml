@@ -12,11 +12,11 @@
 | 8. Unsupervised Learning + k-Means + Hierachical clustering + DBSCAN | [slides](https://docs.google.com/presentation/d/1Nqjg2Ihua4x3_mAepCDhX6w1jmZjPek-Jzf7RjXMlCo/edit?usp=sharing) | Chap. 14 ESLII book | 27.03.2023 |
 | 9. PCA / ICA | [slides](https://docs.google.com/presentation/d/1efDXngdFPLDUfC69-xhiR1qPAQICXfPc1dHVMTZAYq4/edit?usp=sharing) | Chap. 14 ESLII + Chap 12 PRML | 29.03.2023 |
 | 10. 💻 Python algebra + numpy + data visualization | [notebook](https://colab.research.google.com/drive/1oRuLHfrAf-oa__ZRbUNylyjawmPW2IJY?usp=sharing) | | 31.03.2023 |
-| 11. Manifold learning + Spectral clustering | | | 03.03.2023 |
-| 12. Gaussian Mixture Models + EM + HMM | | | 05.04.2023 |
+| 11. Manifold learning + Spectral clustering | [slides](https://docs.google.com/presentation/d/10--10oW6ExKcyopFY3YI3VqhyqCTGeDFpIz0nNFiDW8/edit?usp=sharing) | Chap. 14 ESLII | 03.03.2023 |
+| 12. Gaussian Mixture Models + EM + HMM | [slides](https://docs.google.com/presentation/d/1Jn7ZWNBs9dzcEbjhaiSoHlIBKrGEQcobj2tlozjqLE4/edit?usp=sharing) | Chap. 13 + 9 PRML| 05.04.2023 |
 | 13. Clustering evaluation | | | 12.04.2023 |
 | 14. 💻 scikit-learn clustering + project | | | 14.04.2023 |
-| 15. Supervised Learning Intro + Model selection  | | | |
+| 15. Supervised Learning + kNN  | | | |
 | 16. Linear regression + GLM + PLS | | | |
 | 17. Logistic regression + Regularization | | | |
 | 18. SVM + Kernels | | | |
