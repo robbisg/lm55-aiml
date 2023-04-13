@@ -16,13 +16,13 @@
 | 12. Gaussian Mixture Models + EM + HMM | [slides](https://docs.google.com/presentation/d/1Jn7ZWNBs9dzcEbjhaiSoHlIBKrGEQcobj2tlozjqLE4/edit?usp=sharing) | Chap. 13 + 9 PRML| 05.04.2023 |
 | 13. Clustering evaluation | | | 12.04.2023 |
 | 14. 💻 scikit-learn clustering + project | | | 14.04.2023 |
-| 15. Supervised Learning + kNN  | | | 17.04.2023  |
-| 16. Linear regression + GLM + PLS | | | 19.04.2023 |
-| 17. Logistic regression + Regularization | | | 21.04.2023 |
-| 18. SVM + Kernels | | | |
-| 19. GNB + Nearest Neighbor + LDA | | | |
-| 20. Decision Trees + Random Forest | | | |
-| 21. Ensemble methods + GP | | | |
+| 15. Supervised Learning + Linear Regression  | | | 17.04.2023  |
+| 16. Logistic regression + kNN | | | 19.04.2023 |
+| 17. SVM + Kernels | | | 21.04.2023 |
+| 18. TBD | | | |
+| 19. GNB + GP + LDA | | | |
+| 20. Ensemble + Decision Trees + Random Forest | | | |
+| 21. TBD | | | |
 | 22. Evaluation of performances + Statistics + Inspection methods + Preprocessing | | | |
 | 23. 💻 scikit-learn classification | | | |
 | 24. 💻 Neural network intro + pytorch | | | |
