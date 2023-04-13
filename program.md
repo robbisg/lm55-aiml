@@ -15,7 +15,7 @@
 | 11. Manifold learning + Spectral clustering | [slides](https://docs.google.com/presentation/d/10--10oW6ExKcyopFY3YI3VqhyqCTGeDFpIz0nNFiDW8/edit?usp=sharing) | Chap. 14 ESLII | 03.03.2023 |
 | 12. Gaussian Mixture Models + EM + HMM | [slides](https://docs.google.com/presentation/d/1Jn7ZWNBs9dzcEbjhaiSoHlIBKrGEQcobj2tlozjqLE4/edit?usp=sharing) | Chap. 13 + 9 PRML| 05.04.2023 |
 | 13. Clustering evaluation | | | 12.04.2023 |
-| 14. 💻 scikit-learn clustering + project | | | 14.04.2023 |
+| 14. 💻 scikit-learn clustering + project | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | | 14.04.2023 |
 | 15. Supervised Learning + Linear Regression  | | | 17.04.2023  |
 | 16. Logistic regression + kNN | | | 19.04.2023 |
 | 17. SVM + Kernels | | | 21.04.2023 |
