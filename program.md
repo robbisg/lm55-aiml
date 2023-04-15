@@ -25,10 +25,10 @@
 | 21. TBD | | | |
 | 22. Evaluation of performances + Statistics + Inspection methods + Preprocessing | | | |
 | 23. 💻 scikit-learn classification | | | |
-| 24. 💻 Neural network intro + pytorch | | | |
-| 25. MLP + Backpropagation |
-| 26. CNN | | | |
-| 27. RNN | | | |
+| 24. MLP + Backpropagation |
+| 25. CNN | | | |
+| 26. RNN | | | |
+| 27. 💻 Neural network intro + pytorch | | | |
 | 28. Autoencoders | | | |
 | 29. GAN + GNN | | | |
 | 30. Reinforcement Learning | | | |
