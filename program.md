@@ -17,13 +17,13 @@
 | 13. Clustering evaluation | | | 12.04.2023 |
 | 14. 💻 scikit-learn clustering + project | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | | 14.04.2023 |
 | 15. Supervised Learning + Linear Regression  | | | 17.04.2023  |
-| 16. Logistic regression + kNN | | | 19.04.2023 |
-| 17. SVM + Kernels | | | 21.04.2023 |
-| 18. TBD | | | |
-| 19. GNB + GP + LDA | | | |
-| 20. Ensemble + Decision Trees + Random Forest | | | |
-| 21. TBD | | | |
-| 22. Evaluation of performances + Statistics + Inspection methods + Preprocessing | | | |
+| 16. Model Selection + Regularization | | | 19.04.2023 |
+| 17. Linear classification + kNN + LDA | | | 21.04.2023 |
+| 18. SVM + Kernels | | | |
+| 19. Bayesian Regression + GNB + GP  | | | |
+| 20. Machine Learning and Neuroscience ?? | | | |
+| 21. Ensemble + Decision Trees + Random Forest | | | |
+| 22. Tips and Tricks + Evaluation of performances + Statistics + Inspection methods + Preprocessing | | | |
 | 23. 💻 scikit-learn classification | | | |
 | 24. MLP + Backpropagation |
 | 25. CNN | | | |
