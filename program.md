@@ -16,8 +16,8 @@
 | 12. Gaussian Mixture Models + EM + HMM | [slides](https://docs.google.com/presentation/d/1Jn7ZWNBs9dzcEbjhaiSoHlIBKrGEQcobj2tlozjqLE4/edit?usp=sharing) | Chap. 13 + 9 PRML| 05.04.2023 |
 | 13. Clustering evaluation | [slides](https://docs.google.com/presentation/d/1e5pvwqXGtElzGlyIzzGLTi_f1RBRcYBvTrZeAO2ZkzE/edit?usp=sharing) | Chap 14 ESLII | 12.04.2023 |
 | 14. 💻 scikit-learn clustering + project | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | | 14.04.2023 |
-| 15. Supervised Learning + Linear Regression  | | | 17.04.2023  |
-| 16. Model Selection + Regularization | | | 19.04.2023 |
+| 15. Supervised Learning + Linear Regression  | [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | | 17.04.2023  |
+| 16. Model Selection + Regularization | [slides](https://docs.google.com/presentation/d/1IqBupjZEwO3ss909G2gSW4yfCqSmCO99XlDQhvxnX3M/edit?usp=share_link) | | 19.04.2023 |
 | 17. Linear classification + kNN + LDA | | | 21.04.2023 |
 | 18. SVM + Kernels | | | |
 | 19. Bayesian Regression + GNB + GP  | | | |
