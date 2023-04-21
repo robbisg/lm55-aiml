@@ -18,7 +18,7 @@
 | 14. 💻 scikit-learn clustering + project | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | | 14.04.2023 |
 | 15. Supervised Learning + Linear Regression  | [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | | 17.04.2023  |
 | 16. Model Selection + Regularization | [slides](https://docs.google.com/presentation/d/1IqBupjZEwO3ss909G2gSW4yfCqSmCO99XlDQhvxnX3M/edit?usp=share_link) | | 19.04.2023 |
-| 17. Linear classification + kNN + LDA | | | 21.04.2023 |
+| 17. Linear classification + kNN + LDA | [slides](https://docs.google.com/presentation/d/1ZUqmhbm4Nk7a-D9OZDcmtxmP_-D_erQE4dLgpPyFoKo/edit?usp=sharing) | | 21.04.2023 |
 | 18. SVM + Kernels | | | 26.04.2023 |
 | 19. 💻 Practical session TBD  | | | 28.04.2023 |
 | 20. Bayesian regression + GP + GNB | | | 03.05.2023 |
