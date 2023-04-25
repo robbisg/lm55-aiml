@@ -19,7 +19,7 @@
 | 15. Supervised Learning + Linear Regression  | [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | | 17.04.2023  |
 | 16. Model Selection + Regularization | [slides](https://docs.google.com/presentation/d/1IqBupjZEwO3ss909G2gSW4yfCqSmCO99XlDQhvxnX3M/edit?usp=share_link) | | 19.04.2023 |
 | 17. Linear classification + kNN + LDA | [slides](https://docs.google.com/presentation/d/1ZUqmhbm4Nk7a-D9OZDcmtxmP_-D_erQE4dLgpPyFoKo/edit?usp=sharing) | | 21.04.2023 |
-| 18. SVM + GP + Kernels | | | 26.04.2023 |
+| 18. SVM + GP + Kernels | [slides](https://docs.google.com/presentation/d/1p9TXluL19zUS7Y-aRCKrB41_wXR2befZ9tXact5t_9I/edit?usp=sharing) | Chap. 6, 7 PRML | 26.04.2023 |
 | 19. 💻 Practical session TBD  | | | 28.04.2023 |
 | 20. Ensemble + Decision Trees + Random Forest | | | 03.05.2023 |
 | 21. Preprocessing + Interpretation + Feature selection + testing| | | 05.05.2023 |
