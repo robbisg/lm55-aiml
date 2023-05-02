@@ -16,12 +16,12 @@
 | 12. Gaussian Mixture Models + EM + HMM | [slides](https://docs.google.com/presentation/d/1Jn7ZWNBs9dzcEbjhaiSoHlIBKrGEQcobj2tlozjqLE4/edit?usp=sharing) | Chap. 13 + 9 PRML| 05.04.2023 |
 | 13. Clustering evaluation | [slides](https://docs.google.com/presentation/d/1e5pvwqXGtElzGlyIzzGLTi_f1RBRcYBvTrZeAO2ZkzE/edit?usp=sharing) | Chap 14 ESLII | 12.04.2023 |
 | 14. 💻 scikit-learn clustering + project | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | | 14.04.2023 |
-| 15. Supervised Learning + Linear Regression  | [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | | 17.04.2023  |
-| 16. Model Selection + Regularization | [slides](https://docs.google.com/presentation/d/1IqBupjZEwO3ss909G2gSW4yfCqSmCO99XlDQhvxnX3M/edit?usp=share_link) | | 19.04.2023 |
-| 17. Linear classification + kNN + LDA | [slides](https://docs.google.com/presentation/d/1ZUqmhbm4Nk7a-D9OZDcmtxmP_-D_erQE4dLgpPyFoKo/edit?usp=sharing) | | 21.04.2023 |
+| 15. Supervised Learning + Linear Regression  | [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | Chap 2.1 ESLII - Chap 3.1 PRML | 17.04.2023  |
+| 16. Model Selection + Regularization | [slides](https://docs.google.com/presentation/d/1IqBupjZEwO3ss909G2gSW4yfCqSmCO99XlDQhvxnX3M/edit?usp=share_link) | Chap 1.3, 3.2 PRML - Chap 3.4, 7 ESLII  | 19.04.2023 |
+| 17. Linear classification + kNN + LDA | [slides](https://docs.google.com/presentation/d/1ZUqmhbm4Nk7a-D9OZDcmtxmP_-D_erQE4dLgpPyFoKo/edit?usp=sharing) | Chap 2.5.2, 4 PRML - Chap 2.3, 4 ESLII | 21.04.2023 |
 | 18. SVM + GP + Kernels | [slides](https://docs.google.com/presentation/d/1p9TXluL19zUS7Y-aRCKrB41_wXR2befZ9tXact5t_9I/edit?usp=sharing) | Chap. 6, 7 PRML | 26.04.2023 |
 | 19. 💻 Practical session TBD  | [notebook](https://colab.research.google.com/drive/1McdIA1qvhqCew4LWOeHsyW7dRC_1V4uI?usp=sharing) | | 28.04.2023 |
-| 20. Ensemble + Decision Trees + Random Forest | | | 03.05.2023 |
+| 20. Ensemble + Decision Trees + Random Forest | [slides](https://docs.google.com/presentation/d/19Gd-ffJTHMMtWTtnIeD4igCFN_koZLGL9jvfv3Dw694/edit?usp=sharing) | Chap 8.7, 9.2, 10.2, 15 ESLII | 03.05.2023 |
 | 21. Preprocessing + Interpretation + Feature selection + testing| | | 05.05.2023 |
 | 22. 💻 scikit-learn classification | | | 08.05.2023 |
 | 23. MLP + Backpropagation | | | 10.05.2023 |
