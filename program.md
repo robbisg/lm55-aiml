@@ -22,7 +22,7 @@
 | 18. SVM + GP + Kernels | [slides](https://docs.google.com/presentation/d/1p9TXluL19zUS7Y-aRCKrB41_wXR2befZ9tXact5t_9I/edit?usp=sharing) | Chap. 6, 7 PRML | 26.04.2023 |
 | 19. 💻 Practical session TBD  | [notebook](https://colab.research.google.com/drive/1McdIA1qvhqCew4LWOeHsyW7dRC_1V4uI?usp=sharing) | | 28.04.2023 |
 | 20. Ensemble + Decision Trees + Random Forest | [slides](https://docs.google.com/presentation/d/19Gd-ffJTHMMtWTtnIeD4igCFN_koZLGL9jvfv3Dw694/edit?usp=sharing) | Chap 8.7, 9.2, 10.2, 15 ESLII | 03.05.2023 |
-| 21. Preprocessing + Interpretation + Feature selection + testing| | | 05.05.2023 |
+| 21. Preprocessing + Interpretation + Feature selection + testing| [slides](https://docs.google.com/presentation/d/1Kbcs2CfTHBB6a_YXTXgkwB95sP8RvhuOqHM8ZppQkFw/edit?usp=sharing) | | 05.05.2023 |
 | 22. 💻 scikit-learn classification | | | 08.05.2023 |
 | 23. MLP + Backpropagation | | | 10.05.2023 |
 | 24. CNN | | | 12.05.2023 |
