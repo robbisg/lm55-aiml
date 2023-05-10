@@ -27,10 +27,10 @@
 | 23. MLP + Backpropagation | [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 5,6,7 DL | 10.05.2023 |
 | 24. CNN | | | 12.05.2023 |
 | 25. RNN | | | 15.05.2023 |
-| 26. 💻 Neural network intro + pytorch | | | 17.05.2023 |
-| 27. Autoencoders | | | 19.05.2023 |
+| 26. Autoencoders | | | 17.05.2023 |
+| 27. 💻 Neural network intro + pytorch | | | 19.05.2023 |
 | 28. GAN + GNN | | | 22.05.2023 |
-| 29. Reinforcement Learning | | | 24.05.2023 |
-| 30. Machine Learning and Neuroscience | | | 26.05.2023 |
+| 29. Machine Learning and Neuroscience | | | 24.05.2023 |
+| 30. 💻 pytorch | | | 26.05.2023 |
 | 31. Dataviz | | | 29.05.2023 |
 | 32. TBD | | | 31.05.2023 |
