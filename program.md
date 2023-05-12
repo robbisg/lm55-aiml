@@ -24,12 +24,12 @@
 | 20. Ensemble + Decision Trees + Random Forest | [slides](https://docs.google.com/presentation/d/19Gd-ffJTHMMtWTtnIeD4igCFN_koZLGL9jvfv3Dw694/edit?usp=sharing) | Chap 8.7, 9.2, 10.2, 15 ESLII | 03.05.2023 |
 | 21. Preprocessing + Interpretation + Feature selection + testing| [slides](https://docs.google.com/presentation/d/1Kbcs2CfTHBB6a_YXTXgkwB95sP8RvhuOqHM8ZppQkFw/edit?usp=sharing) | | 05.05.2023 |
 | 22. 💻 scikit-learn classification | | | 08.05.2023 |
-| 23. MLP + Backpropagation | [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 5,6,7 DL | 10.05.2023 |
-| 24. CNN | | | 12.05.2023 |
-| 25. RNN | | | 15.05.2023 |
-| 26. Autoencoders | | | 17.05.2023 |
+| 23. Neural Networks Intro | [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 5 DL | 10.05.2023 |
+| 24. Backpropagation + Optimization| [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 6,7 DL | 12.05.2023 |
+| 25. CNN | | | 15.05.2023 |
+| 26. RNN | | | 17.05.2023 |
 | 27. 💻 Neural network intro + pytorch | | | 19.05.2023 |
-| 28. GAN + GNN | | | 22.05.2023 |
+| 28. Autoencoder + GAN + GNN | | | 22.05.2023 |
 | 29. Machine Learning and Neuroscience | | | 24.05.2023 |
 | 30. 💻 pytorch | | | 26.05.2023 |
 | 31. Dataviz | | | 29.05.2023 |
