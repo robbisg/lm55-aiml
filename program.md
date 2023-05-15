@@ -24,8 +24,8 @@
 | 20. Ensemble + Decision Trees + Random Forest | [slides](https://docs.google.com/presentation/d/19Gd-ffJTHMMtWTtnIeD4igCFN_koZLGL9jvfv3Dw694/edit?usp=sharing) | Chap 8.7, 9.2, 10.2, 15 ESLII | 03.05.2023 |
 | 21. Preprocessing + Interpretation + Feature selection + testing| [slides](https://docs.google.com/presentation/d/1Kbcs2CfTHBB6a_YXTXgkwB95sP8RvhuOqHM8ZppQkFw/edit?usp=sharing) | | 05.05.2023 |
 | 22. 💻 scikit-learn classification | | | 08.05.2023 |
-| 23. Neural Networks Intro | [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 5 DL | 10.05.2023 |
-| 24. Backpropagation + Optimization| [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 6,7 DL | 12.05.2023 |
+| 23. Neural Networks Intro | [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 6 DL | 10.05.2023 |
+| 24. Backpropagation + Optimization| [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 7,8 DL | 12.05.2023 |
 | 25. CNN | [slides](https://docs.google.com/presentation/d/1g6XJg7zTDekhmlNvgQ0R0NHvANP8yjg2gpSdplCftQ0/edit?usp=sharing) | Chap. 9 DL | 15.05.2023 |
 | 26. RNN | | | 17.05.2023 |
 | 27. 💻 Neural network intro + pytorch | | | 19.05.2023 |
