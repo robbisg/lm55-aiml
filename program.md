@@ -26,7 +26,7 @@
 | 22. 💻 scikit-learn classification | | | 08.05.2023 |
 | 23. Neural Networks Intro | [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 5 DL | 10.05.2023 |
 | 24. Backpropagation + Optimization| [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 6,7 DL | 12.05.2023 |
-| 25. CNN | | | 15.05.2023 |
+| 25. CNN | [slides](https://docs.google.com/presentation/d/1g6XJg7zTDekhmlNvgQ0R0NHvANP8yjg2gpSdplCftQ0/edit?usp=sharing) | Chap. 9 DL | 15.05.2023 |
 | 26. RNN | | | 17.05.2023 |
 | 27. 💻 Neural network intro + pytorch | | | 19.05.2023 |
 | 28. Autoencoder + GAN + GNN | | | 22.05.2023 |
