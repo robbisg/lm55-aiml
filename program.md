@@ -27,7 +27,7 @@
 | 23. Neural Networks Intro | [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 6 DL | 10.05.2023 |
 | 24. Backpropagation + Optimization| [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 7,8 DL | 12.05.2023 |
 | 25. CNN | [slides](https://docs.google.com/presentation/d/1g6XJg7zTDekhmlNvgQ0R0NHvANP8yjg2gpSdplCftQ0/edit?usp=sharing) | Chap. 9 DL | 15.05.2023 |
-| 26. RNN | | | 17.05.2023 |
+| 26. RNN | [slides](https://docs.google.com/presentation/d/1jtUJoeuEt-MKynI4qXeNRkInnonHusus07Wz0N3NH2s/edit?usp=sharing) | Chap 10 DL, 12.4 DL | 17.05.2023 |
 | 27. 💻 Neural network intro + pytorch | | | 19.05.2023 |
 | 28. Autoencoder + GAN + GNN | | | 22.05.2023 |
 | 29. Machine Learning and Neuroscience | | | 24.05.2023 |
