@@ -32,5 +32,5 @@
 | 28. Autoencoder + GAN | [slides](https://docs.google.com/presentation/d/1J5g2qmfoPP83xbA5Rr7QUKvUaSNI4ZfOZNNz7sbuc5A/edit?usp=sharing) | | 22.05.2023 |
 | 29. Machine Learning and Neuroscience |[slides](https://docs.google.com/presentation/d/1fH-efhMRSy_tB341-fEDSddQbv630BQwwQTObzIJzC0/edit?usp=sharing) | | 24.05.2023 |
 | 30. 💻 pytorch | [notebook](https://colab.research.google.com/drive/1zDbNZsw4G62Wu2NJMxiLc-nAQ4-Ks8Et?usp=sharing) | | 26.05.2023 |
-| 31. Dataviz + Project | | | 29.05.2023 |
+| 31. Dataviz + Project | [slides](https://docs.google.com/presentation/d/1cXSDT8EhCKpz8Et02oYYsusmamiajXXkYFueIL0hccE/edit?usp=sharing) | | 29.05.2023 |
 | 32. Project | | | 31.05.2023 |
