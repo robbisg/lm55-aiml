@@ -25,3 +25,6 @@ vscode:
 ### Datasets
 - Kaggle: https://www.kaggle.com/datasets
 - OpenNeuro: https://openneuro.org/
+
+### Pytorch tutorials
+- Neuromatch Academy: https://deeplearning.neuromatch.io/tutorials/intro.html
