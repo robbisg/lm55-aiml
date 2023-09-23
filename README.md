@@ -1,5 +1,7 @@
 # LM-55 AIML Course
-Collection of material for the course in Artificial Intelligence and Machine Learning (LM-55).
+Collection of material for the course in Artificial Intelligence and Machine Learning (LM-55), M.Sc. in Computational Cognitivie Sciences [LM-55](https://www.unich.it/ugov/degree/6213) at Università "G. D'Annunzio" Chieti-Pescara ([UdA](https://www.unich.it))
+
+Instructor: [Roberto Guidotti](https://www.dnisc.unich.it/home-guidotti-roberto-7117).
 
 ## Textbooks
 
@@ -12,8 +14,10 @@ The Elements of Statistical Learning - T. Hastie, J. H. Friedmann, R. Tibshirani
 Mathematics for Machine Learning -  MP. Deisenroth, AA. Faisal, and CS Ong. Published by Cambridge University Press. (2020) [Free here](https://mml-book.github.io/book/mml-book.pdf)
 
 ## Program
+You can find the material of the course at the following links:
+- AA. 2022-23 [link](program2223.md)
+- AA. 2023-24 [link](program2324.md)
 
-The program of the course and the slides can be accessed [here](program.md)
 
 ## Material
 Other material about machine learning will be added [here](material.md)
