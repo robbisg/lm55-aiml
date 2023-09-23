@@ -1,7 +1,9 @@
 # LM-55 AIML Course
-Collection of material for the course in Artificial Intelligence and Machine Learning (LM-55), M.Sc. in Computational Cognitivie Sciences [LM-55](https://www.unich.it/ugov/degree/6213) at Università "G. D'Annunzio" Chieti-Pescara ([UdA](https://www.unich.it))
+Collection of material for the course in **Artificial Intelligence and Machine Learning**. Lecturer: [Roberto Guidotti](https://www.dnisc.unich.it/home-guidotti-roberto-7117).
 
-Instructor: [Roberto Guidotti](https://www.dnisc.unich.it/home-guidotti-roberto-7117).
+M.Sc. in Computational Cognitivie Sciences [LM-55](https://www.unich.it/ugov/degree/6213) at Università "G. D'Annunzio" Chieti-Pescara ([UdA](https://www.unich.it))
+
+
 
 ## Textbooks
 
@@ -15,8 +17,8 @@ Mathematics for Machine Learning -  MP. Deisenroth, AA. Faisal, and CS Ong. Publ
 
 ## Program
 You can find the material of the course at the following links:
-- AA. 2022-23 [link](program2223.md)
-- AA. 2023-24 [link](program2324.md)
+- [AA. 2022-23](program2223.md)
+- [AA. 2023-24](program2324.md)
 
 
 ## Material
