@@ -7,10 +7,11 @@
 | 3. Linear Algebra | [slides](https://docs.google.com/presentation/d/1j8AIXVPb5G8GmNLkOs4kYQM4yauIXiLXRbYAvepf1Cc/edit?usp=sharing) | Chap. 2 DL book + MML book | 05.03.2024 |
 | 4. Linear Algebra (pt. 2) | [slides](https://docs.google.com/presentation/d/1j8AIXVPb5G8GmNLkOs4kYQM4yauIXiLXRbYAvepf1Cc/edit?usp=sharing) | Chap. 2 DL book + MML book | 08.03.2024 |
 | 5. Probability and Information theory | [slides](https://docs.google.com/presentation/d/1zs2O9KPIX-0WbPg2tbck-ZSs_x0ihgxNStZrvhkNJIQ/edit?usp=sharing) | Chap. 3 DL book + Chap1.2, 2.3 PRML book | 11.03.2024 |
-| 5. Calculus | [slides](https://docs.google.com/presentation/d/1cVeEe3fkj_7FL-CN06Ol5xovt9A35_SlUG39PYNaL5A/edit?usp=sharing) | Chap. 4 DL book | |
-| 6. 💻 Introduction to Python | see [material](material.md) | | |
+| 6. Calculus | [slides](https://docs.google.com/presentation/d/1cVeEe3fkj_7FL-CN06Ol5xovt9A35_SlUG39PYNaL5A/edit?usp=sharing) | Chap. 4 DL book | 12.03.2024 |
+| 6. Calculus (pt. II) | [slides](https://docs.google.com/presentation/d/1cVeEe3fkj_7FL-CN06Ol5xovt9A35_SlUG39PYNaL5A/edit?usp=sharing) | Chap. 4 DL book | 15.03.2024 |
 | 7. Machine Learning basics | [slides](https://docs.google.com/presentation/d/1LBIeythXsugOGL1Yf6qS6fJpyQyS3oQxjpBnTTB59zg/edit?usp=sharing) | Chap. 5 DL book | |
 | 8. Unsupervised Learning + k-Means + Hierachical clustering + DBSCAN | [slides](https://docs.google.com/presentation/d/1Nqjg2Ihua4x3_mAepCDhX6w1jmZjPek-Jzf7RjXMlCo/edit?usp=sharing) | Chap. 14 ESLII book | |
+| 6. 💻 Introduction to Python | see [material](material.md) | | |
 | 9. PCA / ICA | [slides](https://docs.google.com/presentation/d/1efDXngdFPLDUfC69-xhiR1qPAQICXfPc1dHVMTZAYq4/edit?usp=sharing) | Chap. 14 ESLII + Chap 12 PRML | |
 | 10. 💻 Python algebra + numpy + data visualization | [notebook](https://colab.research.google.com/drive/1oRuLHfrAf-oa__ZRbUNylyjawmPW2IJY?usp=sharing) | | |
 | 11. Manifold learning + Spectral clustering | [slides](https://docs.google.com/presentation/d/10--10oW6ExKcyopFY3YI3VqhyqCTGeDFpIz0nNFiDW8/edit?usp=sharing) | Chap. 14 ESLII | |
