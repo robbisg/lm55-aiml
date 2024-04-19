@@ -19,9 +19,9 @@
 | 15. 💻 scikit-learn clustering + project | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | | 12.04.2024 |
 | 16. Supervised Learning + Linear Regression  pt. 1| [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | Chap 2.1 ESLII - Chap 3.1 PRML | 15.04.2024 |
 | 17. Supervised Learning + Linear Regression  pt. 2| [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | Chap 2.1 ESLII - Chap 3.1 PRML | 16.04.2024 |
-| 17. Model Selection + Regularization | [slides](https://docs.google.com/presentation/d/1IqBupjZEwO3ss909G2gSW4yfCqSmCO99XlDQhvxnX3M/edit?usp=share_link) | Chap 1.3, 3.2 PRML - Chap 3.4, 7 ESLII  | 16.04.2024 |
 | 18. 💻 scikit-learn clustering pt. II | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | | 19.04.2024 |
-| 18. Linear classification + kNN + LDA | [slides](https://docs.google.com/presentation/d/1ZUqmhbm4Nk7a-D9OZDcmtxmP_-D_erQE4dLgpPyFoKo/edit?usp=sharing) | Chap 2.5.2, 4 PRML - Chap 2.3, 4 ESLII | |
+| 17. Model Selection + Regularization | [slides](https://docs.google.com/presentation/d/1IqBupjZEwO3ss909G2gSW4yfCqSmCO99XlDQhvxnX3M/edit?usp=share_link) | Chap 1.3, 3.2 PRML - Chap 3.4, 7 ESLII  | 22.04.2024 |
+| 18. Linear classification + kNN + LDA | [slides](https://docs.google.com/presentation/d/1ZUqmhbm4Nk7a-D9OZDcmtxmP_-D_erQE4dLgpPyFoKo/edit?usp=sharing) | Chap 2.5.2, 4 PRML - Chap 2.3, 4 ESLII | 23.04.2024 |
 | 19. SVM + GP + Kernels | [slides](https://docs.google.com/presentation/d/1p9TXluL19zUS7Y-aRCKrB41_wXR2befZ9tXact5t_9I/edit?usp=sharing) | Chap. 6, 7 PRML | |
 | 20. 💻 Practical session TBD  | [notebook](https://colab.research.google.com/drive/1McdIA1qvhqCew4LWOeHsyW7dRC_1V4uI?usp=sharing) | | |
 | 21. Ensemble + Decision Trees + Random Forest | [slides](https://docs.google.com/presentation/d/19Gd-ffJTHMMtWTtnIeD4igCFN_koZLGL9jvfv3Dw694/edit?usp=sharing) | Chap 8.7, 9.2, 10.2, 15 ESLII | |
