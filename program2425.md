@@ -2,9 +2,9 @@
 
 | Title | Link | References | Day |
 | ------------------ | ------------- | ---------------- | --------------- |
-| 1. Course logistic | [slides](https://docs.google.com/presentation/d/1kTL8-8z6N607njfj-Qf8fa0qkur6mykDr2Tys3JPIuo/edit?usp=sharing) | |  |
+| 1. Course logistic | [slides](https://docs.google.com/presentation/d/1kTL8-8z6N607njfj-Qf8fa0qkur6mykDr2Tys3JPIuo/edit?usp=sharing) | | 03.03.25 |
 | 2. Introduction + History of AI | [slides](https://docs.google.com/presentation/d/1IcoJQ63RDV0LV5uVcy-pnU3F3krzO2MoAJE29SOO1rk/edit?usp=sharing) | Chap. 1 DL book | |  |
-| 3. Linear Algebra | [slides](https://docs.google.com/presentation/d/1j8AIXVPb5G8GmNLkOs4kYQM4yauIXiLXRbYAvepf1Cc/edit?usp=sharing) | Chap. 2 DL book + MML book |  |
+| 3. Linear Algebra | [slides](https://docs.google.com/presentation/d/1j8AIXVPb5G8GmNLkOs4kYQM4yauIXiLXRbYAvepf1Cc/edit?usp=sharing) | Chap. 2 DL book + MML book | 04.03.25 |
 | 4. Linear Algebra (pt. 2) | [slides](https://docs.google.com/presentation/d/1j8AIXVPb5G8GmNLkOs4kYQM4yauIXiLXRbYAvepf1Cc/edit?usp=sharing) | Chap. 2 DL book + MML book |  |
 | 5. Probability and Information theory | [slides](https://docs.google.com/presentation/d/1zs2O9KPIX-0WbPg2tbck-ZSs_x0ihgxNStZrvhkNJIQ/edit?usp=sharing) | Chap. 3 DL book + Chap1.2, 2.3 PRML book |  |
 | 6. Calculus | [slides](https://docs.google.com/presentation/d/1cVeEe3fkj_7FL-CN06Ol5xovt9A35_SlUG39PYNaL5A/edit?usp=sharing) | Chap. 4 DL book |  |
