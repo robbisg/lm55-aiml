@@ -7,7 +7,7 @@
 | 3. Linear Algebra | [slides](https://docs.google.com/presentation/d/1j8AIXVPb5G8GmNLkOs4kYQM4yauIXiLXRbYAvepf1Cc/edit?usp=sharing) | Chap. 2 DL book + MML book | 04.03.25 |
 | 4. Probability and Information theory | [slides](https://docs.google.com/presentation/d/1zs2O9KPIX-0WbPg2tbck-ZSs_x0ihgxNStZrvhkNJIQ/edit?usp=sharing) | Chap. 3 DL book + Chap1.2, 2.3 PRML book | 05.03.25 |
 | 6. Calculus | [slides](https://docs.google.com/presentation/d/1cVeEe3fkj_7FL-CN06Ol5xovt9A35_SlUG39PYNaL5A/edit?usp=sharing) | Chap. 4 DL book | 17.03.25 |
-| 7. Machine Learning basics | [slides](https://docs.google.com/presentation/d/1cVeEe3fkj_7FL-CN06Ol5xovt9A35_SlUG39PYNaL5A/edit?usp=sharing) | Chap. 5 DL book | 18.03.25 |
+| 7. Machine Learning basics | [slides](https://docs.google.com/presentation/d/1LBIeythXsugOGL1Yf6qS6fJpyQyS3oQxjpBnTTB59zg/edit?usp=sharing) | Chap. 5 DL book | 18.03.25 |
 | 8. 💻 Introduction to Python | see [material](material.md) + [notebook](https://colab.research.google.com/drive/1oRuLHfrAf-oa__ZRbUNylyjawmPW2IJY?usp=sharing)| | 19.03.25 |
 | 9. Unsupervised Learning + k-Means | [slides](https://docs.google.com/presentation/d/1Nqjg2Ihua4x3_mAepCDhX6w1jmZjPek-Jzf7RjXMlCo/edit?usp=sharing) | Chap. 14 ESLII book |  |
 | 10. Hierachical clustering + DBSCAN | [slides](https://docs.google.com/presentation/d/1Nqjg2Ihua4x3_mAepCDhX6w1jmZjPek-Jzf7RjXMlCo/edit?usp=sharing) | Chap. 14 ESLII book |  |
