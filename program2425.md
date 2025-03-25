@@ -10,8 +10,8 @@
 | 6. Machine Learning basics | [slides](https://docs.google.com/presentation/d/1LBIeythXsugOGL1Yf6qS6fJpyQyS3oQxjpBnTTB59zg/edit?usp=sharing) | Chap. 5 DL book | 18.03.25 |
 | 7. 💻 Introduction to Python | see [material](material.md) + [notebook](https://colab.research.google.com/drive/1oRuLHfrAf-oa__ZRbUNylyjawmPW2IJY?usp=sharing)| | 19.03.25 |
 | 8. Unsupervised Learning + k-Means | [slides](https://docs.google.com/presentation/d/1Nqjg2Ihua4x3_mAepCDhX6w1jmZjPek-Jzf7RjXMlCo/edit?usp=sharing) | Chap. 14 ESLII book | 24.03.2025 |
-| 10. Hierachical clustering + DBSCAN | [slides](https://docs.google.com/presentation/d/1Nqjg2Ihua4x3_mAepCDhX6w1jmZjPek-Jzf7RjXMlCo/edit?usp=sharing) | Chap. 14 ESLII book |  |
-| 11. 💻 Introduction to Python | see [material](material.md) + [notebook](https://colab.research.google.com/drive/1oRuLHfrAf-oa__ZRbUNylyjawmPW2IJY?usp=sharing)| |  |
+| 9. Hierachical clustering + DBSCAN | [slides](https://docs.google.com/presentation/d/1Nqjg2Ihua4x3_mAepCDhX6w1jmZjPek-Jzf7RjXMlCo/edit?usp=sharing) | Chap. 14 ESLII book | 25.03.2025 |
+| 10. 💻 Introduction to Python | see [material](material.md) + [notebook](https://colab.research.google.com/drive/1oRuLHfrAf-oa__ZRbUNylyjawmPW2IJY?usp=sharing)| |  |
 | 12. PCA / ICA | [slides](https://docs.google.com/presentation/d/1efDXngdFPLDUfC69-xhiR1qPAQICXfPc1dHVMTZAYq4/edit?usp=sharing) | Chap. 14 ESLII + Chap 12 PRML |  |
 | 13. Manifold learning + Spectral clustering | [slides](https://docs.google.com/presentation/d/10--10oW6ExKcyopFY3YI3VqhyqCTGeDFpIz0nNFiDW8/edit?usp=sharing) | Chap. 14 ESLII |  |
 | 14. Clustering evaluation | [slides](https://docs.google.com/presentation/d/1e5pvwqXGtElzGlyIzzGLTi_f1RBRcYBvTrZeAO2ZkzE/edit?usp=sharing) | Chap 14 ESLII |  |
@@ -32,6 +32,7 @@
 | 29. CNN | [slides](https://docs.google.com/presentation/d/1g6XJg7zTDekhmlNvgQ0R0NHvANP8yjg2gpSdplCftQ0/edit?usp=sharing) | Chap. 9 DL |  |
 | 30. RNN | [slides](https://docs.google.com/presentation/d/1jtUJoeuEt-MKynI4qXeNRkInnonHusus07Wz0N3NH2s/edit?usp=sharing) | Chap 10 DL, 12.4 DL |  |
 | 31. Autoencoder + GAN | [slides](https://docs.google.com/presentation/d/1J5g2qmfoPP83xbA5Rr7QUKvUaSNI4ZfOZNNz7sbuc5A/edit?usp=sharing) | |  |
+| 31. Large Language Models | [slides]() | |  |
 | 32. 💻 Neural network intro + pytorch | [notebook](https://colab.research.google.com/drive/1XAhhW3CxqH3frAvluOdmazx1O5bYhPG7?usp=sharing) | |  |
 
 
