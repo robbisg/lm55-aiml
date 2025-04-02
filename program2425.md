@@ -14,10 +14,11 @@
 | 10. MLE + 💻 project | see [material](material.md) + [slides](https://docs.google.com/presentation/d/1LBIeythXsugOGL1Yf6qS6fJpyQyS3oQxjpBnTTB59zg/edit?usp=sharing) | 26.03.2025 |  |
 | 11. PCA / ICA | [slides](https://docs.google.com/presentation/d/1efDXngdFPLDUfC69-xhiR1qPAQICXfPc1dHVMTZAYq4/edit?usp=sharing) | Chap. 14 ESLII + Chap 12 PRML | 31.03.2025 |
 | 12. Manifold learning + Spectral clustering | [slides](https://docs.google.com/presentation/d/10--10oW6ExKcyopFY3YI3VqhyqCTGeDFpIz0nNFiDW8/edit?usp=sharing) | Chap. 14 ESLII | 01.04.2025 |
+| 13. 💻 scikit-learn clustering | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | |  |
 | 14. Clustering evaluation | [slides](https://docs.google.com/presentation/d/1e5pvwqXGtElzGlyIzzGLTi_f1RBRcYBvTrZeAO2ZkzE/edit?usp=sharing) | Chap 14 ESLII |  |
-| 15. 💻 scikit-learn clustering + project | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | |  |
-| 16. Supervised Learning + Linear Regression  pt. 1| [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | Chap 2.1 ESLII - Chap 3.1 PRML |  |
-| 17. Supervised Learning + Linear Regression  pt. 2| [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | Chap 2.1 ESLII - Chap 3.1 PRML |  |
+| 15. Supervised Learning + Linear Regression  pt. 1| [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | Chap 2.1 ESLII - Chap 3.1 PRML |  |
+| 16. Supervised Learning + Linear Regression  pt. 2| [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | Chap 2.1 ESLII - Chap 3.1 PRML |  |
+| 17. |  |  |  |
 | 18. 💻 scikit-learn clustering pt. II | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | |  |
 | 19. Model Selection + Regularization | [slides](https://docs.google.com/presentation/d/1IqBupjZEwO3ss909G2gSW4yfCqSmCO99XlDQhvxnX3M/edit?usp=share_link) | Chap 1.3, 3.2 PRML - Chap 3.4, 7 ESLII  |  |
 | 20. Linear classification + kNN + LDA | [slides](https://docs.google.com/presentation/d/1ZUqmhbm4Nk7a-D9OZDcmtxmP_-D_erQE4dLgpPyFoKo/edit?usp=sharing) | Chap 2.5.2, 4 PRML - Chap 2.3, 4 ESLII |  |
