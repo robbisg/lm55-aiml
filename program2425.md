@@ -16,7 +16,7 @@
 | 12. Manifold learning + Spectral clustering | [slides](https://docs.google.com/presentation/d/10--10oW6ExKcyopFY3YI3VqhyqCTGeDFpIz0nNFiDW8/edit?usp=sharing) | Chap. 14 ESLII | 01.04.2025 |
 | 13. 💻 scikit-learn clustering | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | | 02.04.2025 |
 | 14. Clustering evaluation | [slides](https://docs.google.com/presentation/d/1e5pvwqXGtElzGlyIzzGLTi_f1RBRcYBvTrZeAO2ZkzE/edit?usp=sharing) | Chap 14 ESLII | 07.04.2025 |
-| 15. Supervised Learning + Linear Regression  pt. 1| [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | Chap 2.1 ESLII - Chap 3.1 PRML |  |
+| 15. Supervised Learning + Linear Regression  pt. 1| [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | Chap 2.1 ESLII - Chap 3.1 PRML | 08.04.2025 |
 | 16. Supervised Learning + Linear Regression  pt. 2| [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | Chap 2.1 ESLII - Chap 3.1 PRML |  |
 | 17. |  |  |  |
 | 18. 💻 scikit-learn clustering pt. II | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | |  |
