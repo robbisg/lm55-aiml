@@ -18,10 +18,10 @@
 | 14. Clustering evaluation | [slides](https://docs.google.com/presentation/d/1e5pvwqXGtElzGlyIzzGLTi_f1RBRcYBvTrZeAO2ZkzE/edit?usp=sharing) | Chap 14 ESLII | 07.04.2025 |
 | 15. Supervised Learning + Linear Regression  pt. 1| [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | Chap 2.1 ESLII - Chap 3.1 PRML | 08.04.2025 |
 | 16. Supervised Learning + Linear Regression  pt. 2| [slides](https://docs.google.com/presentation/d/1_HcycuOYijWReIHpbq2PB63mBfNoQ3mLGcy1-K6gLi8/edit?usp=share_link) | Chap 2.1 ESLII - Chap 3.1 PRML | 09.04.2025 |
-| 17. Model Selection + Regularization | [slides](https://docs.google.com/presentation/d/1IqBupjZEwO3ss909G2gSW4yfCqSmCO99XlDQhvxnX3M/edit?usp=share_link) | Chap 1.3, 3.2 PRML - Chap 3.4, 7 ESLII  |  |
-| 18. 💻 scikit-learn clustering pt. II | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | |  |
-| 19. 💻 Principal Component Analysis | [notebook](https://colab.research.google.com/drive/11yoTbgs2U36j-UFM0Lpev3YPmCfwHlDP?usp=sharing) |  |  |
-| 20. Linear classification + kNN + LDA | [slides](https://docs.google.com/presentation/d/1ZUqmhbm4Nk7a-D9OZDcmtxmP_-D_erQE4dLgpPyFoKo/edit?usp=sharing) | Chap 2.5.2, 4 PRML - Chap 2.3, 4 ESLII |  |
+| 17. Model Selection + Regularization | [slides](https://docs.google.com/presentation/d/1IqBupjZEwO3ss909G2gSW4yfCqSmCO99XlDQhvxnX3M/edit?usp=share_link) | Chap 1.3, 3.2 PRML - Chap 3.4, 7 ESLII  |  14.04.2025
+| 18. 💻 scikit-learn clustering pt. II | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | | 15.04.2025 |
+| 19. 💻 Principal Component Analysis | [notebook](https://colab.research.google.com/drive/11yoTbgs2U36j-UFM0Lpev3YPmCfwHlDP?usp=sharing) |  | 16.04.2025 |
+| 20. Linear classification + kNN + LDA | [slides](https://docs.google.com/presentation/d/1ZUqmhbm4Nk7a-D9OZDcmtxmP_-D_erQE4dLgpPyFoKo/edit?usp=sharing) | Chap 2.5.2, 4 PRML - Chap 2.3, 4 ESLII | 28.04.2025 |
 | 21. Multiclass classification + recap | [slides](https://docs.google.com/presentation/d/1ZUqmhbm4Nk7a-D9OZDcmtxmP_-D_erQE4dLgpPyFoKo/edit?usp=sharing) | Chap 2.5.2, 4 PRML - Chap 2.3, 4 ESLII |  |
 | 22. SVM + Kernels | [slides](https://docs.google.com/presentation/d/1p9TXluL19zUS7Y-aRCKrB41_wXR2befZ9tXact5t_9I/edit?usp=sharing) | Chap. 6, 7 PRML |  |
 | 23. 💻 scikit-learn classification + project  | [notebook](https://colab.research.google.com/drive/1McdIA1qvhqCew4LWOeHsyW7dRC_1V4uI?usp=sharing) | |  |
