@@ -22,8 +22,8 @@
 | 18. 💻 scikit-learn clustering pt. II | [notebook](https://colab.research.google.com/drive/1WowWaLHlkt8HoIlWXVHQb_EZVcFhdKcl?usp=sharing) | | 15.04.2025 |
 | 19. 💻 Principal Component Analysis | [notebook](https://colab.research.google.com/drive/11yoTbgs2U36j-UFM0Lpev3YPmCfwHlDP?usp=sharing) |  | 16.04.2025 |
 | 20. Linear classification + kNN + LDA | [slides](https://docs.google.com/presentation/d/1ZUqmhbm4Nk7a-D9OZDcmtxmP_-D_erQE4dLgpPyFoKo/edit?usp=sharing) | Chap 2.5.2, 4 PRML - Chap 2.3, 4 ESLII | 28.04.2025 |
-| 21. Multiclass classification + recap | [slides](https://docs.google.com/presentation/d/1ZUqmhbm4Nk7a-D9OZDcmtxmP_-D_erQE4dLgpPyFoKo/edit?usp=sharing) | Chap 2.5.2, 4 PRML - Chap 2.3, 4 ESLII |  |
-| 22. SVM + Kernels | [slides](https://docs.google.com/presentation/d/1p9TXluL19zUS7Y-aRCKrB41_wXR2befZ9tXact5t_9I/edit?usp=sharing) | Chap. 6, 7 PRML |  |
+| 21. SVM + Kernels | [slides](https://docs.google.com/presentation/d/1p9TXluL19zUS7Y-aRCKrB41_wXR2befZ9tXact5t_9I/edit?usp=sharing) | Chap. 6, 7 PRML | 29.0.2025 |
+| 22. Ensemble + Decision Trees + Random Forest | [slides](https://docs.google.com/presentation/d/19Gd-ffJTHMMtWTtnIeD4igCFN_koZLGL9jvfv3Dw694/edit?usp=sharing) | Chap 8.7, 9.2, 10.2, 15 ESLII |  |
 | 23. 💻 scikit-learn classification + project  | [notebook](https://colab.research.google.com/drive/1McdIA1qvhqCew4LWOeHsyW7dRC_1V4uI?usp=sharing) | |  |
 | 24. Ensemble + Decision Trees + Random Forest | [slides](https://docs.google.com/presentation/d/19Gd-ffJTHMMtWTtnIeD4igCFN_koZLGL9jvfv3Dw694/edit?usp=sharing) | Chap 8.7, 9.2, 10.2, 15 ESLII |  |
 | 25. Preprocessing + Feature selection + Testing| [slides](https://docs.google.com/presentation/d/1Kbcs2CfTHBB6a_YXTXgkwB95sP8RvhuOqHM8ZppQkFw/edit?usp=sharing) | |  |
