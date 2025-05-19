@@ -28,13 +28,13 @@
 | 24. Feature interpretation + recap | [slides](https://docs.google.com/presentation/d/1Kbcs2CfTHBB6a_YXTXgkwB95sP8RvhuOqHM8ZppQkFw/edit?usp=sharing) | | 06.05.2025 |
 | 25. 💻 scikit-learn classification + project  | [notebook](https://colab.research.google.com/drive/1McdIA1qvhqCew4LWOeHsyW7dRC_1V4uI?usp=sharing) | | 07.05.2025 |
 | 26. Neural Networks Intro | [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 6 DL | 13.05.2025 |
-| 27. Neural Network Optimization | [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 6 DL | 15.03.2025 |
-| 28. Backpropagation + Optimization| [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 7,8 DL |  |
-| 29. CNN | [slides](https://docs.google.com/presentation/d/1g6XJg7zTDekhmlNvgQ0R0NHvANP8yjg2gpSdplCftQ0/edit?usp=sharing) | Chap. 9 DL |  |
-| 30. RNN | [slides](https://docs.google.com/presentation/d/1jtUJoeuEt-MKynI4qXeNRkInnonHusus07Wz0N3NH2s/edit?usp=sharing) | Chap 10 DL, 12.4 DL |  |
-| 31. Autoencoder + GAN | [slides](https://docs.google.com/presentation/d/1J5g2qmfoPP83xbA5Rr7QUKvUaSNI4ZfOZNNz7sbuc5A/edit?usp=sharing) | |  |
+| 27. Neural Networks Optimization | [slides](https://docs.google.com/presentation/d/1LkpIgkJAHu4Uc9vSuOg8w2xr6CIMobFUi9dJuklqipc/edit?usp=sharing) | Chap 6 DL | 15.05.2025 |
+| 28. CNN | [slides](https://docs.google.com/presentation/d/1g6XJg7zTDekhmlNvgQ0R0NHvANP8yjg2gpSdplCftQ0/edit?usp=sharing) | Chap. 9 DL | 19.05.2025 | 
+| 29. RNN | [slides](https://docs.google.com/presentation/d/1jtUJoeuEt-MKynI4qXeNRkInnonHusus07Wz0N3NH2s/edit?usp=sharing) | Chap 10 DL, 12.4 DL | 20.05.2025 |
+| 30. Autoencoder + GAN | [slides](https://docs.google.com/presentation/d/1J5g2qmfoPP83xbA5Rr7QUKvUaSNI4ZfOZNNz7sbuc5A/edit?usp=sharing) | | 21.05.2025 |
 | 31. Large Language Models | [slides]() | |  |
 | 32. 💻 Neural network intro + pytorch | [notebook](https://colab.research.google.com/drive/1XAhhW3CxqH3frAvluOdmazx1O5bYhPG7?usp=sharing) | |  |
+| 33. Machine Learning and Neuroscience |[slides](https://docs.google.com/presentation/d/1fH-efhMRSy_tB341-fEDSddQbv630BQwwQTObzIJzC0/edit?usp=sharing) | | |
 
 
 
