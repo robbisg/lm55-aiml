@@ -33,8 +33,8 @@
 | 29. RNN | [slides](https://docs.google.com/presentation/d/1jtUJoeuEt-MKynI4qXeNRkInnonHusus07Wz0N3NH2s/edit?usp=sharing) | Chap 10 DL, 12.4 DL | 20.05.2025 |
 | 30. Autoencoder + GAN | [slides](https://docs.google.com/presentation/d/1J5g2qmfoPP83xbA5Rr7QUKvUaSNI4ZfOZNNz7sbuc5A/edit?usp=sharing) | | 21.05.2025 |
 | 31. Large Language Models | [slides](https://docs.google.com/presentation/d/1ra4UGCQJZ9P497G4Qq1Fn12wTSNUKpOMA6ECbhkRkOo/edit?usp=sharing) | | 26.05.2025 |
-| 32. 💻 Neural network intro + pytorch | [notebook](https://colab.research.google.com/drive/1XAhhW3CxqH3frAvluOdmazx1O5bYhPG7?usp=sharing) | |  |
-| 33. Machine Learning and Neuroscience |[slides](https://docs.google.com/presentation/d/1fH-efhMRSy_tB341-fEDSddQbv630BQwwQTObzIJzC0/edit?usp=sharing) | | |
+| 32. Machine Learning and Neuroscience |[slides](https://docs.google.com/presentation/d/1fH-efhMRSy_tB341-fEDSddQbv630BQwwQTObzIJzC0/edit?usp=sharing) | | 27.05.2025 |
+| 33. 💻 Neural network intro + pytorch | [notebook](https://colab.research.google.com/drive/1XAhhW3CxqH3frAvluOdmazx1O5bYhPG7?usp=sharing) | |  |
 
 
 
