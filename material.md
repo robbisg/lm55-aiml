@@ -9,6 +9,9 @@ python:
 - https://aaltoscicomp.github.io/python-for-scicomp/
 - https://coderefinery.github.io/data-visualization-python/python-basics/
 
+Neuromatch:
+- https://compneuro.neuromatch.io/tutorials/intro.html
+
 Libraries:
 - https://scikit-learn.org/stable/getting_started.html 
 
