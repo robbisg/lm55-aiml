@@ -35,6 +35,7 @@
 | 31. Large Language Models | [slides](https://docs.google.com/presentation/d/1ra4UGCQJZ9P497G4Qq1Fn12wTSNUKpOMA6ECbhkRkOo/edit?usp=sharing) | | 26.05.2025 |
 | 32. Machine Learning and Neuroscience |[slides](https://docs.google.com/presentation/d/1fH-efhMRSy_tB341-fEDSddQbv630BQwwQTObzIJzC0/edit?usp=sharing) | | 27.05.2025 |
 | 33. 💻 Neural network intro + pytorch | [notebook](https://colab.research.google.com/drive/1XAhhW3CxqH3frAvluOdmazx1O5bYhPG7?usp=sharing) | |  |
+| 🖥️ Machine learning project | [notebook](https://colab.research.google.com/drive/1v6SiKiWzDOPQ-TUyUEoq6WHZpihaxAUw?usp=sharing) [data](https://drive.google.com/file/d/12t8F2Pn4opQuqeBNvN2z9_mBtI-16GZV/view?usp=sharing) [solution](https://colab.research.google.com/drive/10AGsRNZ6xF2uoChMUHuk4BwHZVv7vRyT?usp=sharing)| Chap 3 Izhikievich |  14.01.2026 |
 
 
 
