@@ -17,7 +17,7 @@ Mathematics for Machine Learning -  MP. Deisenroth, AA. Faisal, and CS Ong. Publ
 
 ## Program
 You can find the material of the course at the following links:
-- [AA. 2026](program2.md)
+- [AA. 2026](program26.md)
 - [AA. 2025](program2425.md)
 - [AA. 2024](program2324.md)
 - [AA. 2023](program2223.md)
