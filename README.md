@@ -3,7 +3,7 @@ Collection of material for the course in **Artificial Intelligence and Machine L
 
 M.Sc. in Computational Cognitivie Sciences [LM-55](https://www.unich.it/didattica/lauree-magistrali/computational-cognitive-science) at Università "G. D'Annunzio" Chieti-Pescara ([UdA](https://www.unich.it))
 
-
+🛑 This page has moved to (https://robbisg.github.io/docs/teaching/lm55-aiml/)
 
 ## Textbooks
 
